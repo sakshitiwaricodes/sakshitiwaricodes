@@ -167,7 +167,7 @@ The target is becoming an engineer who can take an ambiguous problem and turn it
   <a href="https://github.com/sakshitiwaricodes">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sakshi-tiwari-0b0765413?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/sakshi-tiwari-0b0765413"/>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sakshitiwaricodes@gmail.com">
